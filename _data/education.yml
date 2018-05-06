@@ -1,14 +1,12 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Engeneer Degree
+  uni: Institut Mines-Télécom Lille Douai
+  year: 2016 &mdash; 2021
+  # awards:
+  summary: <strong>Studies:</strong> Informatics, Electronics, Network & Telecommunication, Mathematics, Physics, Economics, English and German.
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+- degree: Scientific Baccalaureate
+  uni: Lycée Saint-Laurent La Paix Notre Dame
+  year: 2013 &mdash; 2016
+  # award: Least likely to graduate College
+  summary: <strong>Subjects:</strong> Informatics, Mathematics, Physics, Biology, History, Philosophy, French, English and German. <br>Baccalaureate Scientific, equivalent to 10 British A-levels.
