@@ -39,7 +39,6 @@
 
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
-        <a href="https://bitcoin.com/bitcoin.pdf" class="contact-button no-print" itemprop="email" download> <font size="-1">Download My Resume</font></a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
@@ -230,7 +229,10 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-
+      <header class="page-header">
+        <a href="https://bitcoin.com/bitcoin.pdf" class="contact-button no-print" itemprop="email" download> <font size="-1">Download My Resume</font></a>
+      </header>
+      
       <footer class="page-footer">
         <p class="footer-line">Forked from <a href="https://github.com/jglovier/resume-template">jglovier/resume-template</a></p>
       </footer>
