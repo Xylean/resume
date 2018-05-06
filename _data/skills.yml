@@ -1,6 +1,3 @@
-- skill: Language
-  description: "<ul style="list-style-type:none"> <li>French - Mother Tongue </li><li> English - TOEIC: 920 (European Level C1) </li><li> German - European Level B1 </li><li> Dutch - European Level A2</li></ul>"
-
 - skill: Programming language
   description: Python, C and Bash scripts
 
